@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD013 -->
+
 # 🦷 Oral Health Research Among Healthcare Students – University of Gezira
 
 This repository documents an academic research project investigating oral health knowledge, behaviors, and clinical status among dental and medical students at the University of Gezira, Sudan.
