@@ -1,0 +1,18 @@
+<!-- markdownlint-disable MD013 -->
+# References
+
+1. Ehsan H, Ahmadzai N, Orfani Z, Rezayee BM, Wally M, Daftani S. Oral Health Knowledge, Attitude, and Behavior Among Health Professions’ Students at Kabul University of Medical Sciences.  _Clin Cosmet Investig Dent_. 2023;15:349-358  [https://doi.org/10.2147/CCIDE.S444093](https://doi.org/10.2147/CCIDE.S444093)
+2. Elamin, F. A., et al. (2012). Oral health status and treatment needs of Sudanese adults in Khartoum State: A cross-sectional study. _BMC Oral Health_, _12_, 5. [https://doi.org/10.1186/1472-6831-12-5](https://doi.org/10.1186/1472-6831-12-5)
+3. Mohamed, A. A., et al. (2022). Dental caries prevalence among high school adolescents in Khartoum, Sudan. _Clinical Epidemiology and Global Health_, _15_, 101041. [https://doi.org/10.1016/j.cegh.2022.101041](https://doi.org/10.1016/j.cegh.2022.101041)
+4. Ahmed, M. S., et al. (2010). Knowledge of HIV among dental students in Khartoum. Bergan Open Research Archive. Retrieved from [https://bora.uib.no/bora-xmlui/handle/1956/15222](https://bora.uib.no/bora-xmlui/handle/1956/15222)
+5. Lee, J. H., et al. (2016). Oral health knowledge and behaviors: Associations with health-related behaviors in Korean adults. _Korean Journal of Health Education and Promotion_, _33_(3), 45–55. [https://doi.org/10.13065/kjhep.2016.33.3.045](https://doi.org/10.13065/kjhep.2016.33.3.045)
+6. Bennadi , D. . (2024). Knowledge, Attitude and Practice of Oral Health among Undergraduate Medical Students Using Hiroshima University Dental Behavioral Inventory HU-DBI. _Recent Updates in Disease and Health Research Vol. 3_, 85–91.  [https://doi.org/10.9734/bpi/rudhr/v3/6829C](https://doi.org/10.9734/bpi/rudhr/v3/6829C)
+7. Zhang, X., et al. (2019). Oral health status of medical and dental students in China: A cross-sectional study. _BMC Oral Health_, _19_, 190. [https://doi.org/10.1186/s12903-019-0716-6](https://doi.org/10.1186/s12903-019-0716-6)
+8. Farsi NJ, Merdad Y, Mirdad M, Batweel O, Badri R, Alrefai H, Alshahrani S, Tayeb R, Farsi J. Oral Health Knowledge, Attitudes, and Behaviors Among University Students in Jeddah, Saudi Arabia.  _Clin Cosmet Investig Dent_  . 2020;12:515-523  [https://doi.org/10.2147/CCIDE.S272986](https://doi.org/10.2147/CCIDE.S272986)
+9. Yousif, R. M., et al. (2010). Influence of socioeconomic factors on oral health-related quality of life. _Health and Quality of Life Outcomes_, _8_, 152. [https://doi.org/10.1186/1477-7525-8-152](https://doi.org/10.1186/1477-7525-8-152)
+10. AllUniversity. (2024). University of Gezira. Retrieved August 2024, from [https://www.alluniversity.info/sudan/university-of-gezira/](https://www.alluniversity.info/sudan/university-of-gezira/)
+11. Wikipedia contributors. (n.d.). University of Gezira. In _Wikipedia_. Retrieved August 2024, from [https://en.wikipedia.org/wiki/University_of_Gezira](https://en.wikipedia.org/wiki/University_of_Gezira)
+12. Elshabrawy, H., & Almekhlafi, S. (2006). Socioeconomic factors and health inequalities in Gezira State, Sudan. _Health Policy and Planning_, _21_(1), 10–17. [https://doi.org/10.1093/heapol/czi005](https://doi.org/10.1093/heapol/czi005)
+13. EduRank. (n.d.). University of Gezira. Retrieved August 2024, from [https://edurank.org/uni/university-of-gezira/](https://edurank.org/uni/university-of-gezira/)
+14. World Health Organization. (n.d.). Oral health. Retrieved August 2024, from [https://www.afro.who.int/health-topics/oral-health](https://www.afro.who.int/health-topics/oral-health)
+15. AlShammari, K. F., et al. (2022). Integration of oral health in medical curricula: A global review. _Journal of Dental Education_. [https://pubmed.ncbi.nlm.nih.gov/35733361/](https://pubmed.ncbi.nlm.nih.gov/35733361/)
