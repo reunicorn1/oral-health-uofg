@@ -19,7 +19,7 @@ By focusing on the University of Gezira, a public university serving a socioecon
   - Gender (Male vs. Female)
 - Identify correlations between knowledge, behavior, and clinical outcomes.
 
-> See [`justification.md`](./literature-review/justification.md) and [`methodology.md`](./methodology/README.md) for a deep dive into the rationale and research design.
+> See [`justification.md`](./docs/justification.md`) and [`methodology.md`](./docs/methodology.md) for a deeper dive into the rationale and research design.
 
 ## 📍 Study Context
 
@@ -31,21 +31,21 @@ The research focuses on students at the **University of Gezira**, one of Sudan�
 - **Population:** Dental and Medical students (1st, 3rd, and 5th years)
 - **Sample Size:** 420 students (based on power calculation)
 - **Sampling Technique:** Self-selection
-- **Data Analysis Tools:** SPSS / Python / Excel (detailed steps in [`data-analysis.md`](./data-analysis.md))
+- **Data Analysis Tools:** Python / Excel (detailed steps in [`notebooks`](./notebooks))
 
 ## 📝 Files in This Repository
 
-| File | Description |
-|------|-------------|
-| `literature-review` | Literature review and rationale |
-| `methodology` | Study design, sample, Tools used to collect data, and data collection |
-| `data-analysis` | Steps for cleaning, analyzing, and interpreting data |
-| `results/` | Results of the study, discussions, visualizations, and outputs |
-| `docs/` | Presentation slides, posters, or submission drafts |
+| File/Folder | Description |
+|-------------|-------------|
+| `data/` | Raw and processed datasets used in the study |
+| `docs/` | Study documentation including background, methodology, and references |
+| `notebooks/` | Jupyter notebooks for data cleaning, analysis, and visualization |
+| `results/` | Final study results, figures, tables, and conclusions |
+| `src/` | Source code for data processing or analysis |
 
 ## 📌 Status
 
-This project is currently in progress. Data collection and documentation are ongoing. Contributions and suggestions are welcome.
+This project is currently in progress. Data analysis has been completed, and the project is currently in the academic paper writing stage while interpreting the results.
 
 ## 🧠 Author
 
