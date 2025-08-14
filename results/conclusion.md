@@ -171,7 +171,7 @@ For each behavior question (Q1–Q4), a score is assigned of 1 if a student’s 
 
 To compare groups (such as Dentistry vs Medicine, or different academic levels), the proportion of students are looked at in each group who answered each question correctly. For example, you might find that 80% of Dentistry students answered Q1 correctly, compared to 60% of Medicine students.
 
-To test whether these differences in proportions are statistically significant, we use Fisher’s exact test. This test is especially useful when groups are small or imbalanced, as it gives an exact p-value for the difference in proportions between groups.
+To test whether these differences in proportions are statistically significant, we use **Fisher’s exact test**. This test is especially useful when groups are small or imbalanced, as it gives an exact p-value for the difference in proportions between groups.
 <p align="center">
   <img src="https://i.postimg.cc/nhgykQ9G/duration-of-tooth-brushing-2-min-level-faculty.png" alt="Knowledge questions scores per faculty"><br>
   <em>Figure 4: Duration of tooth brushing more than 2 mins per academic level and faculty</em>
@@ -192,9 +192,9 @@ To test whether these differences in proportions are statistically significant, 
   <em>Table 10: Behavior Analysis Proportions Questions per Faculty</em>
 </p>
 
-It’s difficult to find significance between the different academic levels but the differences are clear and statistically significant comparing the two faculties for 5/6 of the questions.
+It’s difficult to find significance between the different academic levels but the differences are clear and statistically significant comparing the two faculties for 5 out of 6 of the questions.
 
-It seems like the null hypothesis (comparing the two faculties in terms of behavior) is highly possible to be rejected. Final call will be left to the final calculation of the behavior_score.
+It seems like the null hypothesis (comparing the two faculties in terms of behavior) is highly possible to be rejected. Final call will be left to the final calculation of the behavior_score (the mean of the 4 behavior questions).
 
 ### **Aggregated Behavior Score Analysis**
 
@@ -215,14 +215,12 @@ It seems like the null hypothesis (comparing the two faculties in terms of behav
 
 Even though using behavior score doesn’t bring distinct differences between academic levels, the slight differences are statistically significant, in addition to that, the behavior of dental students compared to medical students is relatively better regarding oral health by a differnce of 85% to 67%.
 <p align="center">
-  <img src="https://i.postimg.cc/5tcCMnFY/behavior-analysis-score-faculty.png
-" alt="Knowledge questions scores per faculty"><br>
+  <img src="https://i.postimg.cc/5tcCMnFY/behavior-analysis-score-faculty.png" alt="Knowledge questions scores per faculty"><br>
   <em>Table 11: Behavior Analysis Score per Faculty</em>
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/VvNSFh2T/behavior-analysis-score-level-faculty.png
-" alt="Knowledge questions scores per faculty"><br>
+  <img src="https://i.postimg.cc/VvNSFh2T/behavior-analysis-score-level-faculty.png" alt="Knowledge questions scores per faculty"><br>
   <em>Table 12: Behavior Analysis Score per Academic level and Faculty</em>
 </p>
 
@@ -230,10 +228,9 @@ Even though using behavior score doesn’t bring distinct differences between ac
 >
 > This null hypothesis can be confidently  **rejected**, signifying that there is a near 20% difference between oral health behavior of dental and medical students.
 
-With that said, because the p-values from separate year-by-year comparisons vary drastically, it is unclear whether these differences reflect a consistent pattern or are due to random variation. Performing multiple independent tests increases the risk of  **Type I error**  (false positives), meaning that some ‘significant’ results might occur purely by chance. A two-way ANOVA addresses this by assessing the overall effects of Faculty and Academic Level, as well as their interaction, within a single model. This not only controls for the inflation of Type I error but also provides a clearer picture of whether the observed differences are systematic across years or isolated to certain levels.
+With that said, because the p-values from separate year-by-year comparisons vary drastically, it is unclear whether these differences reflect a consistent pattern or are due to random variation. Performing multiple independent tests increases the risk of  **Type I error**  (false positives), meaning that some ‘significant’ results might occur purely by chance. **A two-way ANOVA** addresses this by assessing the overall effects of Faculty and Academic Level, as well as their interaction, within a single model. This not only controls for the inflation of Type I error but also provides a clearer picture of whether the observed differences are systematic across years or isolated to certain levels.
 <p align="center">
-  <img src="https://i.postimg.cc/J4k7Wm3x/behavior-analysis-ANOVA.png
-" alt="Knowledge questions scores per faculty"><br>
+  <img src="https://i.postimg.cc/J4k7Wm3x/behavior-analysis-ANOVA.png" alt="Knowledge questions scores per faculty"><br>
   <em>Table 13: Two-way ANOVA Test for Behavior Analysis</em>
 </p>
 
@@ -248,8 +245,7 @@ There's  **NO**  evidence that academic level itself or its interaction with fac
 > — Can’t be rejected!
 
 <p align="center">
-  <img src="https://i.postimg.cc/7ZqL1d7N/behavior-analysis-score-level-gender.png
-" alt="Knowledge questions scores per faculty"><br>
+  <img src="./tables/behavior_analysis_score_level_gender.png" alt="Knowledge questions scores per faculty"><br>
   <em>Table 14: Behavior Analysis Score per Gender</em>
 </p>
 
@@ -278,7 +274,7 @@ While the difference in behavior scores between males and females is statistical
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/HnHLShRH/distribution-of-brushing-techniques-by-faculty.png" alt="Knowledge questions scores per faculty"><br>
+  <img src="./figures/distribution of_brushing_techniques_by_faculty.png" alt="Knowledge questions scores per faculty"><br>
   <em>Figure 9: Distribution of Methods of Tooth Brushing per Faculty</em>
 </p>
 
