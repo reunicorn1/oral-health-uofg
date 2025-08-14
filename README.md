@@ -19,7 +19,7 @@ By focusing on the University of Gezira, a public university serving a socioecon
   - Gender (Male vs. Female)
 - Identify correlations between knowledge, behavior, and clinical outcomes.
 
-> See [`justification.md`](./docs/justification.md`) and [`methodology.md`](./docs/methodology.md) for a deeper dive into the rationale and research design.
+> See [`justification.md`](./docs/justification.md) and [`methodology.md`](./docs/methodology.md) for a deeper dive into the rationale and research design.
 
 ## 📍 Study Context
 

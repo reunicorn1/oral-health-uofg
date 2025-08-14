@@ -3,7 +3,7 @@
 
 # Results
 
-Data obtained from the survey conducted between 24 September 2023 and 27 September 2024 consisted of **408** respondents. Students not studying at the University of Gezira were excluded, leaving **401** participants. The distribution of these students across academic levels was as follows:
+Data obtained from the survey conducted between 24 September 2023 and 27 September 2024 using Google Forms consisted of **408** respondents. Students not studying at the University of Gezira were excluded, leaving **401** participants. The distribution of these students across academic levels was as follows:
 
 | Academic Year | Students |
 |--|--|
@@ -104,11 +104,11 @@ To address the limitations of chi-square testing on proportions, a **mean knowle
 
 There's still great variability when you take in consideration sub-groups but this provide more meaningful information compared to comparing the proportions selecting each option for the different questions that measure knowledge.
 
-The aggregated analysis indicated a **slight but statistically significant** advantage for dental students compared to medical students. However, the effect size was small, and visual inspection showed substantial overlap in score distributions.
+The aggregated analysis indicated a **slight but a varied statistically significant** advantage for dental students compared to medical students. However, the effect size was small, and visual inspection showed substantial overlap in score distributions.
 
-The p-values when you compare results based on faculty also here have sufficient significance in order for us to reject the null hypothesis showing there's an actual difference between medical students and dental students which wasn't evident before using the chi-square test when comparing question options against each other.
+The p-values when you compare results based on faculty also here a potential sufficient significance in order for us to reject the null hypothesis showing there might be an actual difference between medical students and dental students which wasn't evident before using the chi-square test when comparing question options against each other.
 
-Knowledge was scored as a whole using the mean of the 6 questions together to calculate a collective knowledge score per student. The following demonstrates the distribution of knowledge score per academic level and faculty.
+Knowledge was scored as a whole using the mean of the 6 questions together to calculate a collective knowledge score per student to demonstrate if there's an evident difference. The following demonstrates the distribution of knowledge score per academic level and faculty.
 
 **Descriptive Analytics for Score of Knowledge of Healthcare students:**
 
@@ -141,6 +141,11 @@ The interaction plot and bar plot above shows that, across most academic levels,
   <em>Figure 3: Knowledge score for Dentistry vs Medicine</em>
 </p>
 
+<p align="center">
+  <img src="https://i.postimg.cc/wTSRY0CK/knowledge-scores-faculty.png" alt="Knowledge questions scores per faculty"><br>
+  <em>Table 8: Knowledge score per faculty</em>
+</p>
+
 > **H₀ (Null):** There is no significant difference in oral health knowledge scores between dental and medical students at University of Gezira.
 >
 > The hypothesis  **can NOT be rejected**  in respective to all questions that measure knowledge, showing that dental students superiority in knowledge can’t be measured with the current data.
@@ -152,13 +157,6 @@ When broken down by academic level, the largest difference appeared in the **fou
 > **H₀ (Null):** There is no significant difference in oral health knowledge among 1st, 3rd, and 5th year students.
 >
 > P-values don’t signify a statistical difference that rules out the hypothesis.
-
-<p align="center">
-  <img src="https://i.postimg.cc/wTSRY0CK/knowledge-scores-faculty.png" alt="Knowledge questions scores per faculty"><br>
-  <em>Table 8: Knowledge score per faculty</em>
-</p>
-
-When comparing knowledge scores by gender, no statistically significant differences were observed. The distributions for male and female students largely overlapped, supporting the conclusion that gender was not a meaningful predictor of knowledge score in this sample.
 
 ## **Scoring and Analyzing Oral health behavior**
 
