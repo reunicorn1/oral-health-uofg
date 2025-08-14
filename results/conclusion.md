@@ -87,8 +87,7 @@ When comparing faculties without stratifying by academic level, p-values were mo
 To address the limitations of chi-square testing on proportions, a **mean knowledge score** was calculated for each student (averaging across all six questions). This allowed the use of **t-tests**, which are more robust for continuous data and better suited for detecting overall differences.
 
 <p align="center">
-  <img src="https://i.postimg.cc/dtH8yQPF/proportion-answered-correctly-by-faculty.png
-" alt="Proportion answered correctly by faculty"><br>
+  <img src="https://i.postimg.cc/dtH8yQPF/proportion-answered-correctly-by-faculty.png" alt="Proportion answered correctly by faculty"><br>
   <em>Figure 1. Proportion answered correctly by faculty for knowledge questions</em>
 </p>
 
@@ -330,8 +329,7 @@ For the purpose of calculating oral health status collectively, a student’s st
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/tCFg0ppb/oral-health-status-faculty.png
-" alt="Knowledge questions scores per faculty"><br>
+  <img src="https://i.postimg.cc/tCFg0ppb/oral-health-status-faculty.png" alt="Knowledge questions scores per faculty"><br>
   <em>Table 22. Oral Health Status Score per Faculty</em>
 </p>
 
